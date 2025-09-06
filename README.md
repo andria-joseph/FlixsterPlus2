@@ -1,5 +1,5 @@
 An Android app that gets upcoming movies about to show in theatres and lets a user view and scroll through the list of upcoming movies.
-# Android Project 4 - FlixsterPlus2
+# Android Project - FlixsterPlus2
 
 Submitted by: Andria Joseph
 
